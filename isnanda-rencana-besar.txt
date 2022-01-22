@@ -1,5 +1,7 @@
 Rencana besar
 
 -javascript
+framework
 -portfolio
 -studio
+usaha
