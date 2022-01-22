@@ -2,8 +2,11 @@ Rencana besar
 
 -javascript
 framework
-angular
-react
+React
+vue JS
+-PHP
+laravel
 -portfolio
 -studio
 usaha
+python
