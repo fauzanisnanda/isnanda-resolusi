@@ -2,6 +2,8 @@ Rencana besar
 
 -javascript
 framework
+angular
+react
 -portfolio
 -studio
 usaha
